@@ -11,7 +11,8 @@ Foi utilizado o ChatGPT
 Criei um prompt de comando utilizando a técnica FTAE e 3R's.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[O Rei do Sertão.pdf
+drive.google.com](https://drive.google.com/file/d/1bG6Ek-wZTGDiDtylX1aMwjAPC5k1VPbl/view?usp=drivesdk)
 
 ## 💭 Reflexão (Opcional)
 Após a conclusão de todos os módulos do Bootcamp, foi muito legal realizar esse projeto e perceber o potencial que a IA possui desde que seja orientada de forma correta.
